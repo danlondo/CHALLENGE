@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "tarea": "Desplegar QA",
+        "estado": "Activo",
+        "comentario": "Esta planeado para el viernes"
+    },
+    {
+        "id": 2,
+        "tarea": "Desplegar PDN",
+        "estado": "Activo",
+        "comentario": "Se hara a final de sprint"
+    },
+    {
+        "id": 3,
+        "tarea": "Aceptar PR",
+        "estado": "Inactivo",
+        "comentario": "Se aceptó hace 2 días"
+    },
+    {
+        "id": 4,
+        "tarea": "Entrega a QA de HU",
+        "estado": "Activo",
+        "comentario": "Esperando notificación de QA"
+    }
+]

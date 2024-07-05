@@ -1,0 +1,28 @@
+
+# Proyecto de tareas - Consideraciones:
+
+ - El proyecto se ha desarrollado utilizando node.js, express.js y Typescript.
+
+ - En la carpeta src encontrará toda la lógica y clases que fueron desarrolladas por mí, las demás (carpetas build y node_modules) fueron creadas automáticamente por las herramientas para desarrolladores que brindan las dependencias descargadas en el proyecto.
+
+ - El motor de base de datos al que se conectó el proyecto fue MySql WorkBench.
+
+ - En la clase types.ts encontrará "el modelo" con su respectivo tipado para cada uno de los atributos de las tareas.
+
+# Comunicado personal
+
+Un cordial saludo... Este proyecto se ha desarrollado con mucho amor y con toda la intención de participar en las convocatorias para el puesto como desarrollador Back-end. Por favor tener en cuenta las siguientes consideraciones:
+
+1. El challenge está diseñado para resolverse con Node.js, express.js y typescript, que son herramientas con una sintaxis completamente diferente a la de las herrmientas que están dentro de mi dominio.
+
+2. La mayor parte del tiempo dedicado a la ejecución del challenge fue entregado al desarrollo del mismo, por lo que las actividades de prueba y plus como el desarrollo del front y la creación de la documentación pertinente, no fueron posibles.
+
+3. La ejecución desde otros ordenadores no será posible a menos de que se actualicen o modifiquen las credenciales del motor de base de datos y se ajusten según sea requerido.
+
+Muchas gracias por la atención y por la oportunidad para participar en el challenge, fue una experiencia retadora, en el caso mío, y he adquirido gran conocimiento en el poco tiempo que he desarrollado con Node, Express y typescript.
+
+Saludos... 
+
+- Daniel Londoño Marín.
+
+
